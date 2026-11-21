@@ -1,6 +1,7 @@
 # Datos del estudiante
 
 - **Apellido y nombre:**
+- GALVAN, HUGO
 - **Tecnicatura:** (Higiene y Seguridad / Comercio Exterior / Marketing Digital / Seguros / Administración de Empresas)
 - **Cohorte / turno:**
 - **Fecha:**
